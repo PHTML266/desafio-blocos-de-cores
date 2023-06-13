@@ -1,0 +1,63 @@
+body{
+    display:inline-flex;
+}
+
+.city {
+	background-color: tomato;
+	color: white;
+	border: 1px tomato;
+	margin:20px;
+	padding: 20px;
+    text-align: center;
+    width: 140px;
+}
+
+.batata {
+	background-color: orange;
+	color: white;
+	border: 1px orange;
+	margin:20px;
+	padding: 20px;
+    text-align: center;
+    width: 140px;
+}
+
+.baguio {
+	background-color: dodgerblue;
+	color: white;
+	border: 1px dodgerblue;
+	margin:20px;
+	padding: 20px;
+    text-align: center;
+    width: 140px;
+}
+
+.trem {
+	background-color: mediumseagreen;
+	color: white;
+	border: 1px mediumseagreen;
+	margin:20px;
+	padding: 20px;
+    text-align: center;
+    width: 185px;
+}
+
+.troço {
+	background-color: gray;
+	color: black;
+	border: 1px gray;
+	margin:20px;
+	padding: 20px;
+    text-align: center;
+    width: 140px;
+}
+
+.coiso {
+	background-color: slateblue;
+	color: white;
+	border: 1px slateblue;
+	margin:20px;
+	padding: 20px;
+    text-align: center;
+    width: 140px;
+}
